@@ -1,6 +1,6 @@
 import React from 'react';
 
-cons SignOut = () => (
+const SignOut = () => (
   <div>
     <h1>SignOut</h1>
   </div>

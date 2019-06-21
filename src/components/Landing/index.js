@@ -1,6 +1,6 @@
 import React from 'react';
 
-cons Landing = () => (
+const Landing = () => (
   <div>
     <h1>Landing</h1>
   </div>

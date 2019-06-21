@@ -1,6 +1,6 @@
 import React from 'react';
 
-cons PasswordForget = () => (
+const PasswordForget = () => (
   <div>
     <h1>PasswordForget</h1>
   </div>

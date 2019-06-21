@@ -1,6 +1,6 @@
 import React from 'react';
 
-cons PasswordChange = () => (
+const PasswordChange = () => (
   <div>
     <h1>PasswordChange</h1>
   </div>

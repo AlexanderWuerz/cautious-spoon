@@ -1,6 +1,6 @@
 import React from 'react';
 
-cons Session = () => (
+const Session = () => (
   <div>
     <h1>Session</h1>
   </div>
